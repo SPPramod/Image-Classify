@@ -41,6 +41,10 @@ CIFAR-10 is a well-known dataset containing **60,000 images** (32x32 pixels, RGB
 - Experiment with deeper architectures (ResNet, EfficientNet).
 - Implement data augmentation techniques to improve generalization.
 
-## Author
-**[SPPramod](https://github.com/SPPramod)**
+## Contact
+
+For any inquiries or feedback, please contact:
+
+- **Sathya Pushana Pramod**: [pushanapramod@gmail.com](mailto:pushanapramod@gmail.com)
+- **GitHub**: [SPPramod](https://github.com/SPPramod)
 
