@@ -23,12 +23,10 @@ CIFAR-10 is a well-known dataset containing **60,000 images** (32x32 pixels, RGB
    cd Image-Classify
    ```
 2. Install dependencies:
+   
+3. Run the streamlit app:
    ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the training script:
-   ```bash
-   python train.py
+   streamlit run image_classify.py
    ```
 
 ## Limitations
